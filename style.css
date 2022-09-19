@@ -1,0 +1,41 @@
+/*
+
+Theme name: tes tema
+Theme URI: http://url.com/theme
+Author: Soifant
+Author URI: soifant.com
+Description: ini adalah tema ku
+
+*/
+
+body {
+color:fuchsia;
+padding:40px;
+}
+
+header {
+background:aqua;
+padding:10px;
+margin-bottom:30px;
+}
+
+nav a{
+color:black;
+}
+
+
+main {
+border:solid #333 1px;
+padding:10px;
+
+}
+
+footer {
+background:aqua;
+padding:10px;
+margin-top:30px;
+}
+
+img{
+max-width:100%;
+}
